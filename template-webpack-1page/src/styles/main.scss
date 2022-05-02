@@ -1,0 +1,18 @@
+$textcolor: green;
+$textsize: 50px;
+
+body {
+    font-family: pr;
+}
+.img_wk {
+    width: 500px;
+    height: 300px;
+}
+h1 {
+    font-size: $textsize;
+    color: $textcolor;
+    background: url(../images/my_photo.jpg) no-repeat center;
+}
+h2 {
+    color:red;
+}
