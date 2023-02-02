@@ -4,7 +4,7 @@ result = {}
 
 result.entry = {
     // Додавання нового файлу SJ, за необхідності можна додавати ще файли і в подальшому підєднувати до сторінки
-    'main': path.join(__dirname, '../src/main.js'),
+    'main': path.join(__dirname, '../src/js/main.js'),
     // ПРИКЛАД-файл для другої сторінки!!! 'users': path.join(__dirname, '../src/js/users.js'),
     // Незабути створити SCSS та імпортувати відповідно в JS
 }
